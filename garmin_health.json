@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-17T00:19:14.412147+00:00",
-  "generated_local": "2026-11-16T18:19:14.412185-06:00",
+  "generated_at": "2026-11-17T01:34:17.500908+00:00",
+  "generated_local": "2026-11-16T19:34:17.500948-06:00",
   "latest": {
     "stress_avg": {
       "label": "Stress avg",
       "unit": "/100",
-      "value": 24.0,
+      "value": 27.0,
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:43.676394+00:00",
+      "retrieved_at": "2026-11-17T01:34:16.489273+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "steps": {
       "label": "Steps",
       "unit": "",
-      "value": 1081.0,
+      "value": 1109.0,
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:43.676394+00:00",
+      "retrieved_at": "2026-11-17T01:34:16.489273+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "step_goal": {
       "label": "step_goal",
@@ -77,11 +77,11 @@
     "respiration_avg": {
       "label": "Respiration",
       "unit": "/min",
-      "value": 13.0,
+      "value": 14.0,
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:43.676394+00:00",
+      "retrieved_at": "2026-11-17T01:34:16.489273+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "hr_min": {
       "label": "hr_min",
@@ -104,47 +104,47 @@
     "hr_latest_at": {
       "label": "hr_latest_at",
       "unit": "",
-      "value": "2026-11-16T23:00:00+00:00",
+      "value": "2026-11-17T01:18:00+00:00",
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:43.952978+00:00",
+      "retrieved_at": "2026-11-17T01:34:16.714548+00:00",
       "source": "heart_rate_daily",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "hr_latest": {
       "label": "Heart rate now",
       "unit": "bpm",
-      "value": 81.0,
+      "value": 80.0,
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:43.952978+00:00",
+      "retrieved_at": "2026-11-17T01:34:16.714548+00:00",
       "source": "heart_rate_daily",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "distance_m": {
       "label": "distance_m",
       "unit": "",
-      "value": 900.0,
+      "value": 923.0,
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:43.676394+00:00",
+      "retrieved_at": "2026-11-17T01:34:16.489273+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "calories_total": {
       "label": "Calories",
       "unit": "kcal",
-      "value": 1594.0,
+      "value": 1779.0,
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:43.676394+00:00",
+      "retrieved_at": "2026-11-17T01:34:16.489273+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "body_battery_min": {
       "label": "body_battery_min",
       "unit": "",
-      "value": 60.0,
+      "value": 49.0,
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:44.254490+00:00",
+      "retrieved_at": "2026-11-17T01:34:17.104807+00:00",
       "source": "body_battery",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "body_battery_max": {
       "label": "body_battery_max",
@@ -158,20 +158,20 @@
     "body_battery_latest": {
       "label": "Body Battery",
       "unit": "/100",
-      "value": 60.0,
+      "value": 49.0,
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:43.676394+00:00",
+      "retrieved_at": "2026-11-17T01:34:16.489273+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "body_battery_drained": {
       "label": "body_battery_drained",
       "unit": "",
-      "value": 26.0,
+      "value": 37.0,
       "measured_date": "2026-11-16",
-      "retrieved_at": "2026-11-16T23:17:43.676394+00:00",
+      "retrieved_at": "2026-11-17T01:34:16.489273+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "body_battery_charged": {
       "label": "body_battery_charged",
@@ -318,7 +318,7 @@
     "hr_latest": [
       [
         "2026-11-16",
-        81.0
+        80.0
       ]
     ],
     "spo2_avg": [
@@ -562,7 +562,7 @@
       ],
       [
         "2026-11-16",
-        60.0
+        49.0
       ]
     ],
     "stress_avg": [
@@ -684,7 +684,7 @@
       ],
       [
         "2026-11-16",
-        24.0
+        27.0
       ]
     ],
     "respiration_avg": [
@@ -806,7 +806,7 @@
       ],
       [
         "2026-11-16",
-        13.0
+        14.0
       ]
     ],
     "steps": [
@@ -928,7 +928,7 @@
       ],
       [
         "2026-11-16",
-        1081.0
+        1109.0
       ]
     ],
     "weight_kg": [
@@ -1072,7 +1072,7 @@
       ],
       [
         "2026-11-16",
-        1594.0
+        1779.0
       ]
     ]
   },
@@ -1191,70 +1191,70 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-17T00:19:13.702866+00:00",
-      "last_change_at": "2026-11-16T23:17:43.705255+00:00",
+      "last_run_at": "2026-11-17T01:34:16.506512+00:00",
+      "last_change_at": "2026-11-17T01:34:16.506512+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-17T00:19:13.891335+00:00",
-      "last_change_at": "2026-11-16T23:17:43.960615+00:00",
+      "last_run_at": "2026-11-17T01:34:16.721749+00:00",
+      "last_change_at": "2026-11-17T01:34:16.721749+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-17T00:19:14.179886+00:00",
-      "last_change_at": "2026-11-16T23:17:44.148677+00:00",
+      "last_run_at": "2026-11-17T01:34:16.978902+00:00",
+      "last_change_at": "2026-11-17T01:34:16.978902+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-17T00:19:14.304340+00:00",
-      "last_change_at": "2026-11-16T23:17:44.256359+00:00",
+      "last_run_at": "2026-11-17T01:34:17.109627+00:00",
+      "last_change_at": "2026-11-17T01:34:17.109627+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-17T00:19:14.344571+00:00",
+      "last_run_at": "2026-11-17T01:34:17.163635+00:00",
       "last_change_at": "2026-11-16T17:06:22.236971+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "sleep_summaries": {
       "endpoint": "sleep_summaries",
-      "last_run_at": "2026-11-16T23:34:16.867645+00:00",
+      "last_run_at": "2026-11-17T01:34:17.245231+00:00",
       "last_change_at": "2026-11-16T17:06:20.697252+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "hrv_summaries": {
       "endpoint": "hrv_summaries",
-      "last_run_at": "2026-11-16T23:34:16.914674+00:00",
+      "last_run_at": "2026-11-17T01:34:17.285135+00:00",
       "last_change_at": null,
       "last_status": "no-data",
       "last_error": null
     },
     "steps": {
       "endpoint": "steps",
-      "last_run_at": "2026-11-16T23:34:16.959071+00:00",
-      "last_change_at": "2026-11-16T23:34:16.959071+00:00",
+      "last_run_at": "2026-11-17T01:34:17.343242+00:00",
+      "last_change_at": "2026-11-17T01:34:17.343242+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "stress": {
       "endpoint": "stress",
-      "last_run_at": "2026-11-16T23:34:17.009045+00:00",
-      "last_change_at": "2026-11-16T23:34:17.009045+00:00",
+      "last_run_at": "2026-11-17T01:34:17.405014+00:00",
+      "last_change_at": "2026-11-17T01:34:17.405014+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "weight": {
       "endpoint": "weight",
-      "last_run_at": "2026-11-16T23:34:17.055297+00:00",
+      "last_run_at": "2026-11-17T01:34:17.453731+00:00",
       "last_change_at": "2026-11-16T17:16:56.614320+00:00",
       "last_status": "ok",
       "last_error": null
