@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T00:19:18.390416+00:00",
-  "generated_local": "2026-11-18T18:19:18.390437-06:00",
+  "generated_at": "2026-11-19T01:19:36.811686+00:00",
+  "generated_local": "2026-11-18T19:19:36.811704-06:00",
   "latest": {
     "stress_avg": {
       "label": "Stress avg",
@@ -72,7 +72,7 @@
       "measured_date": "2026-11-18",
       "retrieved_at": "2026-11-19T00:19:17.732066+00:00",
       "source": "daily_summaries",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "respiration_avg": {
       "label": "Respiration",
@@ -135,7 +135,7 @@
       "measured_date": "2026-11-18",
       "retrieved_at": "2026-11-19T00:19:17.732066+00:00",
       "source": "daily_summaries",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "body_battery_min": {
       "label": "body_battery_min",
@@ -1199,35 +1199,35 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-19T00:19:17.736533+00:00",
+      "last_run_at": "2026-11-19T01:19:35.994923+00:00",
       "last_change_at": "2026-11-19T00:19:17.736533+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-19T00:19:17.924209+00:00",
+      "last_run_at": "2026-11-19T01:19:36.228146+00:00",
       "last_change_at": "2026-11-19T00:19:17.924209+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-19T00:19:18.158195+00:00",
+      "last_run_at": "2026-11-19T01:19:36.606752+00:00",
       "last_change_at": "2026-11-19T00:19:18.158195+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-19T00:19:18.266243+00:00",
+      "last_run_at": "2026-11-19T01:19:36.703103+00:00",
       "last_change_at": "2026-11-19T00:19:18.266243+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-19T00:19:18.329332+00:00",
+      "last_run_at": "2026-11-19T01:19:36.751000+00:00",
       "last_change_at": "2026-11-18T06:04:25.282158+00:00",
       "last_status": "ok",
       "last_error": null
