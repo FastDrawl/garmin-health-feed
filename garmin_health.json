@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T15:05:06.260143+00:00",
-  "generated_local": "2026-11-20T09:05:06.260190-06:00",
+  "generated_at": "2026-11-20T16:05:06.929033+00:00",
+  "generated_local": "2026-11-20T10:05:06.929040-06:00",
   "latest": {
     "weight_kg": {
       "label": "Weight",
@@ -162,7 +162,7 @@
       "measured_date": "2026-11-19",
       "retrieved_at": "2026-11-19T16:04:16.291784+00:00",
       "source": "body_battery",
-      "freshness": "stale"
+      "freshness": "old"
     },
     "body_battery_latest": {
       "label": "Body Battery",
@@ -1207,35 +1207,35 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-20T15:05:05.114394+00:00",
+      "last_run_at": "2026-11-20T16:05:06.443928+00:00",
       "last_change_at": "2026-11-20T06:38:41.527199+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-20T15:05:05.557719+00:00",
+      "last_run_at": "2026-11-20T16:05:06.582314+00:00",
       "last_change_at": "2026-11-20T06:38:41.688353+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-20T15:05:05.749152+00:00",
+      "last_run_at": "2026-11-20T16:05:06.746098+00:00",
       "last_change_at": "2026-11-20T06:38:41.850033+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-20T15:05:05.876584+00:00",
+      "last_run_at": "2026-11-20T16:05:06.853632+00:00",
       "last_change_at": "2026-11-20T06:38:41.935124+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-20T15:05:05.925049+00:00",
+      "last_run_at": "2026-11-20T16:05:06.896545+00:00",
       "last_change_at": "2026-11-20T06:04:34.533226+00:00",
       "last_status": "ok",
       "last_error": null
