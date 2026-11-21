@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T18:20:03.842169+00:00",
-  "generated_local": "2026-11-21T12:20:03.842192-06:00",
+  "generated_at": "2026-11-21T18:35:19.805377+00:00",
+  "generated_local": "2026-11-21T12:35:19.805391-06:00",
   "latest": {
     "steps": {
       "label": "Steps",
@@ -160,7 +160,7 @@
       "unit": "/100",
       "value": 64.0,
       "measured_date": "2026-11-20",
-      "retrieved_at": "2026-11-21T18:20:03.708034+00:00",
+      "retrieved_at": "2026-11-21T18:35:19.383493+00:00",
       "source": "body_battery",
       "freshness": "fresh"
     },
@@ -1211,70 +1211,70 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-21T18:20:02.848177+00:00",
+      "last_run_at": "2026-11-21T18:35:18.775125+00:00",
       "last_change_at": "2026-11-21T16:34:10.795384+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-21T18:20:03.318366+00:00",
+      "last_run_at": "2026-11-21T18:35:19.000887+00:00",
       "last_change_at": "2026-11-21T16:34:11.000606+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-21T18:20:03.580597+00:00",
+      "last_run_at": "2026-11-21T18:35:19.257978+00:00",
       "last_change_at": "2026-11-21T16:34:11.259311+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-21T18:20:03.711541+00:00",
+      "last_run_at": "2026-11-21T18:35:19.390002+00:00",
       "last_change_at": "2026-11-21T16:34:11.379831+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-21T18:20:03.773353+00:00",
+      "last_run_at": "2026-11-21T18:35:19.442106+00:00",
       "last_change_at": "2026-11-21T06:04:43.809011+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "sleep_summaries": {
       "endpoint": "sleep_summaries",
-      "last_run_at": "2026-11-21T16:34:11.500191+00:00",
+      "last_run_at": "2026-11-21T18:35:19.526622+00:00",
       "last_change_at": "2026-11-21T16:34:11.500191+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "hrv_summaries": {
       "endpoint": "hrv_summaries",
-      "last_run_at": "2026-11-21T16:34:11.547078+00:00",
+      "last_run_at": "2026-11-21T18:35:19.577596+00:00",
       "last_change_at": null,
       "last_status": "no-data",
       "last_error": null
     },
     "steps": {
       "endpoint": "steps",
-      "last_run_at": "2026-11-21T16:34:11.603548+00:00",
+      "last_run_at": "2026-11-21T18:35:19.630011+00:00",
       "last_change_at": "2026-11-21T16:34:11.603548+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "stress": {
       "endpoint": "stress",
-      "last_run_at": "2026-11-21T16:34:11.654739+00:00",
+      "last_run_at": "2026-11-21T18:35:19.684488+00:00",
       "last_change_at": "2026-11-21T16:34:11.654739+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "weight": {
       "endpoint": "weight",
-      "last_run_at": "2026-11-21T16:34:11.704275+00:00",
+      "last_run_at": "2026-11-21T18:35:19.755325+00:00",
       "last_change_at": "2026-11-21T06:04:44.076751+00:00",
       "last_status": "ok",
       "last_error": null
