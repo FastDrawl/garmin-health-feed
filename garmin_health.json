@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T16:26:44.193554+00:00",
-  "generated_local": "2026-11-23T10:26:44.193596-06:00",
+  "generated_at": "2026-11-23T17:22:32.365557+00:00",
+  "generated_local": "2026-11-23T11:22:32.365585-06:00",
   "latest": {
     "steps": {
       "label": "Steps",
@@ -18,7 +18,7 @@
       "measured_date": "2026-11-23",
       "retrieved_at": "2026-11-23T16:04:37.697811+00:00",
       "source": "steps",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "spo2_min": {
       "label": "spo2_min",
@@ -1223,35 +1223,35 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-23T16:26:42.303994+00:00",
+      "last_run_at": "2026-11-23T17:22:31.446798+00:00",
       "last_change_at": "2026-11-23T16:26:42.303994+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-23T16:26:42.932573+00:00",
+      "last_run_at": "2026-11-23T17:22:31.704169+00:00",
       "last_change_at": "2026-11-23T15:08:25.195791+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-23T16:26:43.576628+00:00",
+      "last_run_at": "2026-11-23T17:22:32.016662+00:00",
       "last_change_at": "2026-11-23T15:08:25.530853+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-23T16:26:43.739397+00:00",
+      "last_run_at": "2026-11-23T17:22:32.175180+00:00",
       "last_change_at": "2026-11-23T15:08:25.687244+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-23T16:26:43.846806+00:00",
+      "last_run_at": "2026-11-23T17:22:32.317841+00:00",
       "last_change_at": "2026-11-23T16:26:43.846806+00:00",
       "last_status": "ok",
       "last_error": null
