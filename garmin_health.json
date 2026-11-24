@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T20:04:37.038512+00:00",
-  "generated_local": "2026-11-24T14:04:37.038538-06:00",
+  "generated_at": "2026-11-24T20:34:14.254686+00:00",
+  "generated_local": "2026-11-24T14:34:14.254707-06:00",
   "latest": {
     "stress_avg": {
       "label": "Stress avg",
@@ -1114,6 +1114,17 @@
   },
   "activities": [
     {
+      "activity_id": 25188520532,
+      "start_time": "2026-11-24T13:39:56.0",
+      "activity_type": "strength_training",
+      "activity_name": "Gravl",
+      "distance_m": null,
+      "duration_s": 2909.408,
+      "calories": 336,
+      "avg_hr": 116.0,
+      "max_hr": 152.0
+    },
+    {
       "activity_id": 25174187142,
       "start_time": "2026-11-23T09:19:04.0",
       "activity_type": "strength_training",
@@ -1211,52 +1222,41 @@
       "calories": 81,
       "avg_hr": 80.0,
       "max_hr": 103.0
-    },
-    {
-      "activity_id": 24770965288,
-      "start_time": "2026-10-18T11:33:49.0",
-      "activity_type": "trail_running",
-      "activity_name": "Des Moines County Trail Running",
-      "distance_m": 1558.65,
-      "duration_s": 1614.046,
-      "calories": 107,
-      "avg_hr": 78.0,
-      "max_hr": 104.0
     }
   ],
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-24T20:04:35.864786+00:00",
-      "last_change_at": "2026-11-24T18:19:15.132720+00:00",
+      "last_run_at": "2026-11-24T20:34:12.988000+00:00",
+      "last_change_at": "2026-11-24T20:34:12.988000+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-24T20:04:36.120818+00:00",
+      "last_run_at": "2026-11-24T20:34:13.282946+00:00",
       "last_change_at": "2026-11-24T18:19:15.362697+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-24T20:04:36.390516+00:00",
+      "last_run_at": "2026-11-24T20:34:13.680491+00:00",
       "last_change_at": "2026-11-24T18:19:15.607244+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-24T20:04:36.518042+00:00",
+      "last_run_at": "2026-11-24T20:34:13.824651+00:00",
       "last_change_at": "2026-11-24T18:19:15.721567+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-24T20:04:36.586623+00:00",
-      "last_change_at": "2026-11-24T06:04:33.010192+00:00",
+      "last_run_at": "2026-11-24T20:34:13.946615+00:00",
+      "last_change_at": "2026-11-24T20:34:13.946615+00:00",
       "last_status": "ok",
       "last_error": null
     },
