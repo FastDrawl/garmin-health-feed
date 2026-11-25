@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-25T00:34:35.549315+00:00",
-  "generated_local": "2026-11-24T18:34:35.549338-06:00",
+  "generated_at": "2026-11-25T00:51:40.828392+00:00",
+  "generated_local": "2026-11-24T18:51:40.828403-06:00",
   "latest": {
     "stress_avg": {
       "label": "Stress avg",
       "unit": "/100",
-      "value": 31.0,
+      "value": 32.0,
       "measured_date": "2026-11-24",
-      "retrieved_at": "2026-11-24T22:34:29.645235+00:00",
+      "retrieved_at": "2026-11-25T00:51:40.080132+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "steps": {
       "label": "Steps",
@@ -50,20 +50,20 @@
     "spo2_avg": {
       "label": "SpO2 average",
       "unit": "%",
-      "value": 94.0,
+      "value": 95.0,
       "measured_date": "2026-11-24",
-      "retrieved_at": "2026-11-24T22:04:10.171860+00:00",
+      "retrieved_at": "2026-11-25T00:51:40.080132+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "spo2_7day_avg": {
       "label": "spo2_7day_avg",
       "unit": "",
-      "value": 93.57142857142857,
+      "value": 93.71428571428571,
       "measured_date": "2026-11-24",
-      "retrieved_at": "2026-11-24T22:04:10.625236+00:00",
+      "retrieved_at": "2026-11-25T00:51:40.593308+00:00",
       "source": "spo2_daily",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "resting_hr": {
       "label": "Resting heart rate",
@@ -104,20 +104,20 @@
     "hr_latest_at": {
       "label": "hr_latest_at",
       "unit": "",
-      "value": "2026-11-24T22:26:00+00:00",
+      "value": "2026-11-25T00:48:00+00:00",
       "measured_date": "2026-11-24",
-      "retrieved_at": "2026-11-24T22:34:29.908517+00:00",
+      "retrieved_at": "2026-11-25T00:51:40.332313+00:00",
       "source": "heart_rate_daily",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "hr_latest": {
       "label": "Heart rate now",
       "unit": "bpm",
-      "value": 72.0,
+      "value": 74.0,
       "measured_date": "2026-11-24",
-      "retrieved_at": "2026-11-24T22:34:29.908517+00:00",
+      "retrieved_at": "2026-11-25T00:51:40.332313+00:00",
       "source": "heart_rate_daily",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "distance_m": {
       "label": "distance_m",
@@ -131,20 +131,20 @@
     "calories_total": {
       "label": "Calories",
       "unit": "kcal",
-      "value": 1841.0,
+      "value": 2056.0,
       "measured_date": "2026-11-24",
-      "retrieved_at": "2026-11-24T22:34:29.645235+00:00",
+      "retrieved_at": "2026-11-25T00:51:40.080132+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "body_battery_min": {
       "label": "body_battery_min",
       "unit": "",
-      "value": 50.0,
+      "value": 39.0,
       "measured_date": "2026-11-24",
-      "retrieved_at": "2026-11-24T22:34:30.423288+00:00",
+      "retrieved_at": "2026-11-25T00:51:40.717630+00:00",
       "source": "body_battery",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "body_battery_max": {
       "label": "body_battery_max",
@@ -158,20 +158,20 @@
     "body_battery_latest": {
       "label": "Body Battery",
       "unit": "/100",
-      "value": 50.0,
+      "value": 39.0,
       "measured_date": "2026-11-24",
-      "retrieved_at": "2026-11-24T22:34:29.645235+00:00",
+      "retrieved_at": "2026-11-25T00:51:40.080132+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "body_battery_drained": {
       "label": "body_battery_drained",
       "unit": "",
-      "value": 21.0,
+      "value": 32.0,
       "measured_date": "2026-11-24",
-      "retrieved_at": "2026-11-24T22:34:29.645235+00:00",
+      "retrieved_at": "2026-11-25T00:51:40.080132+00:00",
       "source": "daily_summaries",
-      "freshness": "stale"
+      "freshness": "fresh"
     },
     "body_battery_charged": {
       "label": "body_battery_charged",
@@ -350,7 +350,7 @@
       ],
       [
         "2026-11-24",
-        72.0
+        74.0
       ]
     ],
     "spo2_avg": [
@@ -472,7 +472,7 @@
       ],
       [
         "2026-11-24",
-        94.0
+        95.0
       ]
     ],
     "body_battery_latest": [
@@ -594,7 +594,7 @@
       ],
       [
         "2026-11-24",
-        50.0
+        39.0
       ]
     ],
     "stress_avg": [
@@ -716,7 +716,7 @@
       ],
       [
         "2026-11-24",
-        31.0
+        32.0
       ]
     ],
     "respiration_avg": [
@@ -1108,7 +1108,7 @@
       ],
       [
         "2026-11-24",
-        1841.0
+        2056.0
       ]
     ]
   },
@@ -1227,35 +1227,35 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-25T00:34:34.478281+00:00",
-      "last_change_at": "2026-11-24T22:34:29.660249+00:00",
+      "last_run_at": "2026-11-25T00:51:40.088331+00:00",
+      "last_change_at": "2026-11-25T00:51:40.088331+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-25T00:34:34.687849+00:00",
-      "last_change_at": "2026-11-24T22:34:29.912361+00:00",
+      "last_run_at": "2026-11-25T00:51:40.335360+00:00",
+      "last_change_at": "2026-11-25T00:51:40.335360+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-25T00:34:34.911572+00:00",
-      "last_change_at": "2026-11-24T22:34:30.279985+00:00",
+      "last_run_at": "2026-11-25T00:51:40.595552+00:00",
+      "last_change_at": "2026-11-25T00:51:40.595552+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-25T00:34:35.019079+00:00",
-      "last_change_at": "2026-11-24T22:34:30.428638+00:00",
+      "last_run_at": "2026-11-25T00:51:40.720896+00:00",
+      "last_change_at": "2026-11-25T00:51:40.720896+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-25T00:34:35.102636+00:00",
+      "last_run_at": "2026-11-25T00:51:40.778857+00:00",
       "last_change_at": "2026-11-24T22:04:10.835679+00:00",
       "last_status": "ok",
       "last_error": null
