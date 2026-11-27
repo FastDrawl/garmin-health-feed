@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T17:19:32.073150+00:00",
-  "generated_local": "2026-11-27T11:19:32.073159-06:00",
+  "generated_at": "2026-11-27T17:49:25.426126+00:00",
+  "generated_local": "2026-11-27T11:49:25.426135-06:00",
   "latest": {
     "stress_avg": {
       "label": "Stress avg",
@@ -27,7 +27,7 @@
       "measured_date": "2026-11-27",
       "retrieved_at": "2026-11-27T16:38:19.191828+00:00",
       "source": "steps",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "spo2_min": {
       "label": "spo2_min",
@@ -1239,35 +1239,35 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-27T17:19:31.254602+00:00",
+      "last_run_at": "2026-11-27T17:49:24.225183+00:00",
       "last_change_at": "2026-11-27T16:05:06.340861+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-27T17:19:31.509005+00:00",
+      "last_run_at": "2026-11-27T17:49:24.487693+00:00",
       "last_change_at": "2026-11-27T16:05:06.626758+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-27T17:19:31.866925+00:00",
+      "last_run_at": "2026-11-27T17:49:25.176587+00:00",
       "last_change_at": "2026-11-27T16:05:06.944404+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-27T17:19:31.993589+00:00",
+      "last_run_at": "2026-11-27T17:49:25.312602+00:00",
       "last_change_at": "2026-11-27T16:05:07.078928+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-27T17:19:32.045140+00:00",
+      "last_run_at": "2026-11-27T17:49:25.373551+00:00",
       "last_change_at": "2026-11-27T06:05:11.067667+00:00",
       "last_status": "ok",
       "last_error": null
