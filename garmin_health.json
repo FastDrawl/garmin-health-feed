@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T16:05:07.207232+00:00",
-  "generated_local": "2026-11-27T10:05:07.207245-06:00",
+  "generated_at": "2026-11-27T16:38:19.339547+00:00",
+  "generated_local": "2026-11-27T10:38:19.339566-06:00",
   "latest": {
     "stress_avg": {
       "label": "Stress avg",
@@ -18,6 +18,15 @@
       "measured_date": "2026-11-27",
       "retrieved_at": "2026-11-27T16:05:06.310889+00:00",
       "source": "daily_summaries",
+      "freshness": "fresh"
+    },
+    "step_goal": {
+      "label": "step_goal",
+      "unit": "",
+      "value": 12000.0,
+      "measured_date": "2026-11-27",
+      "retrieved_at": "2026-11-27T16:38:19.191828+00:00",
+      "source": "steps",
       "freshness": "fresh"
     },
     "spo2_min": {
@@ -172,15 +181,6 @@
       "retrieved_at": "2026-11-27T16:05:06.310889+00:00",
       "source": "daily_summaries",
       "freshness": "fresh"
-    },
-    "step_goal": {
-      "label": "step_goal",
-      "unit": "",
-      "value": 12000.0,
-      "measured_date": "2026-11-26",
-      "retrieved_at": "2026-11-26T17:04:39.898401+00:00",
-      "source": "steps",
-      "freshness": "stale"
     },
     "weight_kg": {
       "label": "Weight",
@@ -1239,70 +1239,70 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-27T16:05:06.340861+00:00",
+      "last_run_at": "2026-11-27T16:38:18.310598+00:00",
       "last_change_at": "2026-11-27T16:05:06.340861+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-27T16:05:06.626758+00:00",
+      "last_run_at": "2026-11-27T16:38:18.510567+00:00",
       "last_change_at": "2026-11-27T16:05:06.626758+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-27T16:05:06.944404+00:00",
+      "last_run_at": "2026-11-27T16:38:18.762232+00:00",
       "last_change_at": "2026-11-27T16:05:06.944404+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-27T16:05:07.078928+00:00",
+      "last_run_at": "2026-11-27T16:38:18.882347+00:00",
       "last_change_at": "2026-11-27T16:05:07.078928+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-27T16:05:07.132125+00:00",
+      "last_run_at": "2026-11-27T16:38:18.932547+00:00",
       "last_change_at": "2026-11-27T06:05:11.067667+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "sleep_summaries": {
       "endpoint": "sleep_summaries",
-      "last_run_at": "2026-11-27T14:36:03.611536+00:00",
+      "last_run_at": "2026-11-27T16:38:19.020211+00:00",
       "last_change_at": "2026-11-27T14:36:03.611536+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "hrv_summaries": {
       "endpoint": "hrv_summaries",
-      "last_run_at": "2026-11-27T14:36:03.651285+00:00",
+      "last_run_at": "2026-11-27T16:38:19.147575+00:00",
       "last_change_at": null,
       "last_status": "no-data",
       "last_error": null
     },
     "steps": {
       "endpoint": "steps",
-      "last_run_at": "2026-11-27T14:36:03.699019+00:00",
-      "last_change_at": "2026-11-27T06:05:11.217918+00:00",
+      "last_run_at": "2026-11-27T16:38:19.194203+00:00",
+      "last_change_at": "2026-11-27T16:38:19.194203+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "stress": {
       "endpoint": "stress",
-      "last_run_at": "2026-11-27T14:36:03.760414+00:00",
-      "last_change_at": "2026-11-27T06:05:11.263599+00:00",
+      "last_run_at": "2026-11-27T16:38:19.258679+00:00",
+      "last_change_at": "2026-11-27T16:38:19.258679+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "weight": {
       "endpoint": "weight",
-      "last_run_at": "2026-11-27T14:36:03.817699+00:00",
+      "last_run_at": "2026-11-27T16:38:19.314214+00:00",
       "last_change_at": "2026-11-27T06:05:11.324437+00:00",
       "last_status": "ok",
       "last_error": null
