@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T07:19:45.109705+00:00",
-  "generated_local": "2026-11-27T01:19:45.109718-06:00",
+  "generated_at": "2026-11-27T08:28:52.069938+00:00",
+  "generated_local": "2026-11-27T02:28:52.069953-06:00",
   "latest": {
     "stress_avg": {
       "label": "Stress avg",
@@ -135,7 +135,7 @@
       "measured_date": "2026-11-26",
       "retrieved_at": "2026-11-27T07:19:44.430815+00:00",
       "source": "daily_summaries",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "body_battery_min": {
       "label": "body_battery_min",
@@ -144,7 +144,7 @@
       "measured_date": "2026-11-26",
       "retrieved_at": "2026-11-27T07:19:44.982561+00:00",
       "source": "body_battery",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "body_battery_max": {
       "label": "body_battery_max",
@@ -162,7 +162,7 @@
       "measured_date": "2026-11-26",
       "retrieved_at": "2026-11-27T07:19:44.430815+00:00",
       "source": "daily_summaries",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "body_battery_drained": {
       "label": "body_battery_drained",
@@ -171,7 +171,7 @@
       "measured_date": "2026-11-26",
       "retrieved_at": "2026-11-27T07:19:44.430815+00:00",
       "source": "daily_summaries",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "body_battery_charged": {
       "label": "body_battery_charged",
@@ -1235,70 +1235,70 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-27T07:19:44.438179+00:00",
+      "last_run_at": "2026-11-27T08:28:51.508215+00:00",
       "last_change_at": "2026-11-27T07:19:44.438179+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-27T07:19:44.634009+00:00",
+      "last_run_at": "2026-11-27T08:28:51.683857+00:00",
       "last_change_at": "2026-11-27T07:19:44.634009+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-27T07:19:44.848470+00:00",
+      "last_run_at": "2026-11-27T08:28:51.865257+00:00",
       "last_change_at": "2026-11-27T07:19:44.848470+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-27T07:19:44.985230+00:00",
+      "last_run_at": "2026-11-27T08:28:51.980014+00:00",
       "last_change_at": "2026-11-27T07:19:44.985230+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-27T07:19:45.032139+00:00",
+      "last_run_at": "2026-11-27T08:28:52.029142+00:00",
       "last_change_at": "2026-11-27T06:05:11.067667+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "sleep_summaries": {
       "endpoint": "sleep_summaries",
-      "last_run_at": "2026-11-27T06:05:11.137059+00:00",
+      "last_run_at": "2026-11-27T08:07:28.328821+00:00",
       "last_change_at": "2026-11-27T06:05:11.137059+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "hrv_summaries": {
       "endpoint": "hrv_summaries",
-      "last_run_at": "2026-11-27T06:05:11.173837+00:00",
+      "last_run_at": "2026-11-27T08:07:28.380000+00:00",
       "last_change_at": null,
       "last_status": "no-data",
       "last_error": null
     },
     "steps": {
       "endpoint": "steps",
-      "last_run_at": "2026-11-27T06:05:11.217918+00:00",
+      "last_run_at": "2026-11-27T08:07:28.424978+00:00",
       "last_change_at": "2026-11-27T06:05:11.217918+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "stress": {
       "endpoint": "stress",
-      "last_run_at": "2026-11-27T06:05:11.263599+00:00",
+      "last_run_at": "2026-11-27T08:07:28.477183+00:00",
       "last_change_at": "2026-11-27T06:05:11.263599+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "weight": {
       "endpoint": "weight",
-      "last_run_at": "2026-11-27T06:05:11.324437+00:00",
+      "last_run_at": "2026-11-27T08:07:28.530006+00:00",
       "last_change_at": "2026-11-27T06:05:11.324437+00:00",
       "last_status": "ok",
       "last_error": null
