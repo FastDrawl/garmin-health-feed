@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T03:34:29.155039+00:00",
-  "generated_local": "2026-11-26T21:34:29.155075-06:00",
+  "generated_at": "2026-11-27T03:49:11.615210+00:00",
+  "generated_local": "2026-11-26T21:49:11.615252-06:00",
   "latest": {
     "stress_avg": {
       "label": "Stress avg",
@@ -160,7 +160,7 @@
       "unit": "/100",
       "value": 53.0,
       "measured_date": "2026-11-26",
-      "retrieved_at": "2026-11-27T03:34:29.024959+00:00",
+      "retrieved_at": "2026-11-27T03:49:11.479513+00:00",
       "source": "body_battery",
       "freshness": "fresh"
     },
@@ -1235,35 +1235,35 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-27T03:34:28.423480+00:00",
+      "last_run_at": "2026-11-27T03:49:10.856563+00:00",
       "last_change_at": "2026-11-27T01:04:26.232551+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-27T03:34:28.672643+00:00",
+      "last_run_at": "2026-11-27T03:49:11.109760+00:00",
       "last_change_at": "2026-11-27T01:04:26.523631+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-27T03:34:28.920975+00:00",
+      "last_run_at": "2026-11-27T03:49:11.358124+00:00",
       "last_change_at": "2026-11-27T01:04:26.768443+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-27T03:34:29.029106+00:00",
+      "last_run_at": "2026-11-27T03:49:11.482888+00:00",
       "last_change_at": "2026-11-27T01:04:26.905192+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-27T03:34:29.077751+00:00",
+      "last_run_at": "2026-11-27T03:49:11.528360+00:00",
       "last_change_at": "2026-11-26T06:00:06.909261+00:00",
       "last_status": "ok",
       "last_error": null
