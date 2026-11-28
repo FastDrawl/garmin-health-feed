@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T16:34:38.181645+00:00",
-  "generated_local": "2026-11-28T10:34:38.181661-06:00",
+  "generated_at": "2026-11-28T17:04:23.349066+00:00",
+  "generated_local": "2026-11-28T11:04:23.349103-06:00",
   "latest": {
     "stress_avg": {
       "label": "Stress avg",
@@ -36,7 +36,7 @@
       "measured_date": "2026-11-28",
       "retrieved_at": "2026-11-28T15:50:27.651408+00:00",
       "source": "spo2_daily",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "resting_hr": {
       "label": "Resting heart rate",
@@ -54,7 +54,7 @@
       "measured_date": "2026-11-28",
       "retrieved_at": "2026-11-28T15:50:27.013293+00:00",
       "source": "daily_summaries",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "hr_min": {
       "label": "hr_min",
@@ -63,7 +63,7 @@
       "measured_date": "2026-11-28",
       "retrieved_at": "2026-11-28T15:50:27.013293+00:00",
       "source": "daily_summaries",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "hr_max": {
       "label": "hr_max",
@@ -126,7 +126,7 @@
       "measured_date": "2026-11-28",
       "retrieved_at": "2026-11-28T15:50:27.834124+00:00",
       "source": "body_battery",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "body_battery_latest": {
       "label": "Body Battery",
@@ -153,7 +153,7 @@
       "measured_date": "2026-11-28",
       "retrieved_at": "2026-11-28T15:50:27.013293+00:00",
       "source": "daily_summaries",
-      "freshness": "fresh"
+      "freshness": "stale"
     },
     "spo2_min": {
       "label": "spo2_min",
@@ -1243,35 +1243,35 @@
   "endpoints": {
     "daily_summaries": {
       "endpoint": "daily_summaries",
-      "last_run_at": "2026-11-28T16:34:37.426431+00:00",
+      "last_run_at": "2026-11-28T17:04:22.629384+00:00",
       "last_change_at": "2026-11-28T16:34:37.426431+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "heart_rate_daily": {
       "endpoint": "heart_rate_daily",
-      "last_run_at": "2026-11-28T16:34:37.690520+00:00",
+      "last_run_at": "2026-11-28T17:04:22.859315+00:00",
       "last_change_at": "2026-11-28T16:34:37.690520+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "spo2_daily": {
       "endpoint": "spo2_daily",
-      "last_run_at": "2026-11-28T16:34:37.922585+00:00",
+      "last_run_at": "2026-11-28T17:04:23.111079+00:00",
       "last_change_at": "2026-11-28T16:34:37.922585+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "body_battery": {
       "endpoint": "body_battery",
-      "last_run_at": "2026-11-28T16:34:38.056064+00:00",
+      "last_run_at": "2026-11-28T17:04:23.235377+00:00",
       "last_change_at": "2026-11-28T16:34:38.056064+00:00",
       "last_status": "ok",
       "last_error": null
     },
     "activities": {
       "endpoint": "activities",
-      "last_run_at": "2026-11-28T16:34:38.110768+00:00",
+      "last_run_at": "2026-11-28T17:04:23.284363+00:00",
       "last_change_at": "2026-11-28T06:04:34.830521+00:00",
       "last_status": "ok",
       "last_error": null
